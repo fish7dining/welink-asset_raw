@@ -1,0 +1,8 @@
+{
+  "package": "com.huawei.works.h5.asset",
+  "packageAlias": "welink.asset",
+  "versionCode": "5",
+  "versionName": "1.1.5",
+  "indexURL": "h5://welink.asset/html/index.html",
+  "minAdaptedCode": "100"   
+}
